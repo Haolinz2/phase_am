@@ -1,2 +1,4 @@
 # phase_am
-FPP for AM
+Fringe projection profilometry for additive manufacturing
+
+
