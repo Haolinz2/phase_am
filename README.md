@@ -15,4 +15,8 @@ Phase_am is directly avaliable from pip
 ```bash
 pip install phase-am
 ``` 
+Package dependancies
+```bash
+pip install -r requirements.txt
+```
 
