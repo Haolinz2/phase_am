@@ -19,6 +19,8 @@ Package dependancies
 ```bash
 pip install -r requirements.txt
 ```
+### Sample examples
+Sample examples can be found in [examples](example/wrap_unwrap_example.ipynb) including sample phase wrapping, unwrapping, and height reconstruction.
 
 ## Acknowledgements
 **Our work is based on the following published works:**
