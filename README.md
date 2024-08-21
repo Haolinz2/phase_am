@@ -24,11 +24,9 @@ pip install -r requirements.txt
 Our work is based on the following published works:
 
 <a id="1">[1]</a> 
-Zhang, H., et al. A systematic study and framework of fringe projection profilometry with improved measurement performance for in-situ LPBF process monitoring. Measurement, 2022. 191: p. 110796.
-\\
+Zhang, H., et al. A systematic study and framework of fringe projection profilometry with improved measurement performance for in-situ LPBF process monitoring. Measurement, 2022. 191: p. 110796. <br />
 <a id="2">[2]</a> 
-Zhang, H., et al. Machine learning enhanced high dynamic range fringe projection profilometry for in-situ layer-wise surface topography measurement during LPBF additive manufacturing. Precision Engineering, 2023. 84: p. 1-14.
-\\
+Zhang, H., et al. Machine learning enhanced high dynamic range fringe projection profilometry for in-situ layer-wise surface topography measurement during LPBF additive manufacturing. Precision Engineering, 2023. 84: p. 1-14. <br /> 
 Furthermore, we benefited hugely from the following projects:
 - https://github.com/rosinality/denoising-diffusion-pytorch
 - https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement
