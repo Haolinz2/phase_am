@@ -20,3 +20,7 @@ Package dependancies
 pip install -r requirements.txt
 ```
 
+## Acknowledgements
+
+## License
+Phase_AM is released under the [MIT License](LICENSE)
